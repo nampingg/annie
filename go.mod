@@ -12,6 +12,6 @@ require (
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/rs/zerolog v1.16.0
 	github.com/rylio/ytdl v0.6.2
-	github.com/tidwall/gjson v1.3.2
+	github.com/tidwall/gjson v1.9.3
 	gopkg.in/cheggaaa/pb.v1 v1.0.28 // indirect
 )
